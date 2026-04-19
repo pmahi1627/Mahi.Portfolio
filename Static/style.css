@@ -343,7 +343,7 @@ nav li a:hover{
     font: Inter, sans-serif;
     font-weight: bolder;
     font-size: 2rem;
-    color: #fafafc; /* dark color for the heading */
+    color: #ffffff; 
     padding-top: 1rem;
     margin-bottom: 1rem;
 }
