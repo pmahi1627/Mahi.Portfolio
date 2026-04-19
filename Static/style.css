@@ -343,8 +343,8 @@ nav li a:hover{
     font: Inter, sans-serif;
     font-weight: bolder;
     font-size: 2rem;
-    color: #aeafff; /* dark color for the heading */
-    padding-top: 4.1rem;
+    color: #fafafc; /* dark color for the heading */
+    padding-top: 1rem;
     margin-bottom: 1rem;
 }
 .skills-list ul {
